@@ -7,7 +7,7 @@
 </p>
 <h4 align="center"><b>I am a Data science and Business intelligence Student </b></h4>
 <p>
-  <h4 align="center"><b>"There was a thought growing inside my mind. Some kind of abstraction. But there is no real me. Only an entity. Something illusory. And though I can hide my cold gaze, and you can shake my hand and feel flesh gripping yours, and maybe you can even sense our lifestyles are probably comparable, I simply am not there."</b></h4>
+  <h4 align="center"><b>"You will never be defeated by what they say about you, you'll only be defeated by what you say about you." </b></h4>
 </p>
 
 <p align="center">
