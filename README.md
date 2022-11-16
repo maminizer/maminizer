@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://gifimage.net/wp-content/uploads/2017/08/serial-experiments-lain-gif-15.gif" />
+    <img align="center" alt="visitors" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC" />
 </p>
 
 <p>
