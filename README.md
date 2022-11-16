@@ -3,9 +3,9 @@
 </p>
 
 <p>
-  <h1 align="center"><b>Welcome visitor 🌻</b></h1>
+  <h1 align="center"><b>Weclcome to the Matrix</b></h1>
 </p>
-<h4 align="center"><b>I am a DevOps and a Cloud Engineer Student and also Full Stack Developer</b></h4>
+<h4 align="center"><b>I am a Data science and Business intelligence Student </b></h4>
 <p>
   <h4 align="center"><b>"There was a thought growing inside my mind. Some kind of abstraction. But there is no real me. Only an entity. Something illusory. And though I can hide my cold gaze, and you can shake my hand and feel flesh gripping yours, and maybe you can even sense our lifestyles are probably comparable, I simply am not there."</b></h4>
 </p>
