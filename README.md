@@ -20,18 +20,3 @@
 <a href="https://tn.linkedin.com/in/maminizer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amine.mami@esprit.tn"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
-
-<br>
-
-<img align="right" height="270px" alt="GIF" src="https://data.whicdn.com/images/316002310/original.gif" />
-
-### I am a Student Engineer at Esprit.
-
-<!--- 🧗 Co-Founder of [Cyberia Institute](https://cyberia.institute/). -->
-- 🌱 I’m currently building CI/CD Pipelines using: Jenkins, Maven, Sonar, Nexus, Prometheus, Grafana, Docker, Docker-compose, K8s...
-- 🔭 I’m currently working on [Cyberia Channel](https://github.com/anas1412/cyberia-chan).
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/anas.bassoumi.52) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
-- ⚡ Fun fact: Invite me to new coffee shops, I'm a coffee addict.
