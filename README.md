@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h1 align="center"><b>Weclcome to the Matrix</b></h1>
+  <h1 align="center"><b>Weclome to the Matrix</b></h1>
 </p>
 <h4 align="center"><b>I am a Data science and Business intelligence Student </b></h4>
 <p>
