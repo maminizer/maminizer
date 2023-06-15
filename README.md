@@ -7,7 +7,7 @@
 </p>
 <h4 align="center"><b>I am a Data science and Business intelligence Student </b></h4>
 <p>
-  <h4 align="center"><b>"You will never be defeated by what they say about you, you'll only be defeated by what you say about you." </b></h4>
+  <h4 align="center"><b>"Your success will never exceed your personal developement. for success is something you attract by the person you become" </b></h4>
 </p>
 
 
