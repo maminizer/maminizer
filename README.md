@@ -10,9 +10,6 @@
   <h4 align="center"><b>"You will never be defeated by what they say about you, you'll only be defeated by what you say about you." </b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/maminizer" />
-</p>
 
 <p align="center">
 <br>
